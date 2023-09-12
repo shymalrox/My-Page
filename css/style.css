@@ -125,11 +125,11 @@ body {
   }
   
   @media (prefers-reduced-motion) {
-    .pica {
+    #pica {
       animation: none;
     }
   
-    .picb {
+    #picb {
       animation: none;
     }
   }
